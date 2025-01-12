@@ -1,0 +1,98 @@
+.fira-sans-thin {
+   font-family: "Fira Sans", serif;
+   font-weight: 100;
+   font-style: normal;
+ }
+ .Bangladesh{
+  display: flex;
+  background-color: aquamarine;
+  margin: 0px 200px 0px 200px;
+  padding: 40px;
+  border-radius: 16px;
+ }
+ .Bangladesh-1{
+  padding: 45px;
+ }
+.btn{
+  color: white;
+  background-color: green;
+  border-radius: 4px;
+}
+.size{
+  color: rgb(175, 177, 183);
+}
+.font-size{
+  font-size: 20px;
+}
+/* line2 */
+.skills-container{
+  display: flex;
+  gap: 30px;
+}
+.bold{
+  font-weight: bold;
+  font-size: 30px;
+}
+.lolita{
+  padding: 20px;
+  box-shadow: 0 auto;
+  background-color: whitesmoke;
+  box-shadow: whitesmoke;
+  border-radius: 16px;
+}
+.Bangladesh-2{
+  margin: 0px 200px 0px 200px;
+  border-radius: 16px;
+}
+/* line-3 */
+.lolita-1{
+  display: flex;
+  gap: 30px;
+}
+.Bangladesh-3{
+  margin: 0px 200px 0px 200px;
+  border-radius: 16px;
+}
+.btn1-text{
+  color: white;
+  background-color: red;
+  font-size: 15px;
+  border-radius: 5px;
+}
+.btn2-text{
+  color: white;
+  background-color: green;
+  font-size: 15px;
+  border-radius: 5px;
+}
+.btn3-text{
+  color: white;
+  background-color: rebeccapurple;
+  font-size: 15px;
+  border-radius: 5px;
+}
+.icon1{
+  background-color: blue;
+  padding: 15px;
+  border-radius: 16px;
+}
+.icon2{
+  background-color: chocolate;
+  padding: 15px;
+  border-radius: 16px;
+}
+.icon3{
+  background-color: darkolivegreen;
+  padding: 15px;
+  border-radius: 16px;
+}
+/* line4 */
+.Dr-Muhammad{
+  margin: 100px 200px 100px 200px ;
+  background-color: whitesmoke;
+  background-image: url(assets/quote-bg.png);
+  width: 1250px;
+  height: 200px;
+  padding: 5px;
+  border-radius: 16px;
+}
